@@ -12,6 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with Moon</h2>
+       <h3 class="text-center">my practice status</h3>
   </div>
 </body>
 </html>
