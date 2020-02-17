@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with Moon</h2>
        <h3 class="text-center">my practice status</h3>
-       <h3 class="text-center">we have successfully deployed our application</h3>
+       <h4 class="text-center">we have successfully deployed our application</h4>
   </div>
 </body>
 </html>
