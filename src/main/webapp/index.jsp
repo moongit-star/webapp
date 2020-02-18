@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with Moon</h2>
        <h3 class="text-center">my practice status</h3>
-       <h4 class="text-center">changes made in BUILD</h4>
+       <h4 class="text-center">changes mae till git</h4>
   </div>
 </body>
 </html>
